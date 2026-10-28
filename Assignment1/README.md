@@ -1,8 +1,8 @@
 # DSA0109 Assignment 1
 ## Intelligent Metro Smart-Card Fare System
 
-**Name:** G. Umesh Chandra Yadav 
-**Register Number:** 192525424
+**Name:** M . YESWANTH REDDY 
+**Register Number:** 192424411
 **Language:** C++
 
 ## Tasks
