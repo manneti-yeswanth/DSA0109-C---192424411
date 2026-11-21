@@ -2,8 +2,8 @@
 
 ## Title: C++ Programming Using Constructors, Destructors and Operator Overloading
 
-**Name:** G. Umesh Chandra Yadav 
-**Register Number:** 192525424
+**Name:** M YESWANTH REDDY 
+**Register Number:** 192424411
 **Language:** C++
 
 **Course Outcome (CO3):**
