@@ -1,7 +1,7 @@
 ## ASSIGNMENT 5 – CO5
 
-**Name:** G. Umesh Chandra Yadav 
-**Register Number:** 192525424
+**Name:** M YESWANTH REDDY
+**Register Number:** 192424411
 **Language:** C++
 
 
